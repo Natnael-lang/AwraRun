@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\is caught.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\is caught.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|c:\\users\\hp\\desktop\\escaperun\\awrarun\\assets\\scripts\\chaser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\chaser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\event1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\event1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\cow controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\cow controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F40EE61-5A5D-4BE6-38CE-CD8B69937D4D}|Tests.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\tests\\playertestsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F40EE61-5A5D-4BE6-38CE-CD8B69937D4D}|Tests.csproj|solutionrelative:assets\\tests\\playertestsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F40EE61-5A5D-4BE6-38CE-CD8B69937D4D}|Tests.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\tests\\playertest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F40EE61-5A5D-4BE6-38CE-CD8B69937D4D}|Tests.csproj|solutionrelative:assets\\tests\\playertest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F40EE61-5A5D-4BE6-38CE-CD8B69937D4D}|Tests.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\tests\\swipetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F40EE61-5A5D-4BE6-38CE-CD8B69937D4D}|Tests.csproj|solutionrelative:assets\\tests\\swipetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\enqfat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\enqfat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\CountDown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:Assets\\scripts\\CountDown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD58F85D-F1B2-A919-249E-FC0F968B3F50}|scripts.csproj|solutionrelative:assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Events.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Events.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Events.cs",
+              "RelativeToolTip": "Assets\\scripts\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:45:20.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwipeTest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\Tests\\SwipeTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\SwipeTest.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\Tests\\SwipeTest.cs",
+              "RelativeToolTip": "Assets\\Tests\\SwipeTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:11:15.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SwipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\SwipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SwipeManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\SwipeManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SwipeManager.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:04:30.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerTest2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\Tests\\PlayerTest2.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\PlayerTest2.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\Tests\\PlayerTest2.cs",
+              "RelativeToolTip": "Assets\\Tests\\PlayerTest2.cs",
+              "ViewState": "AQIAACYAAAAAYWZmZmYQwC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:29:29.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerTestSetup.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\Tests\\PlayerTestSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\PlayerTestSetup.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\Tests\\PlayerTestSetup.cs",
+              "RelativeToolTip": "Assets\\Tests\\PlayerTestSetup.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA4wD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:28:27.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enqfat.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Enqfat.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enqfat.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Enqfat.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enqfat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:11:43.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cow Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Cow Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Cow Controller.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Cow Controller.cs",
+              "RelativeToolTip": "Assets\\scripts\\Cow Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:49:28.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Player Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player Controller.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Player Controller.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player Controller.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:46:21.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Is Caught.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Is Caught.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Is Caught.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Is Caught.cs",
+              "RelativeToolTip": "Assets\\scripts\\Is Caught.cs",
+              "ViewState": "AQIAAAUAAAAgy8zMzMwvwBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:05:29.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Event1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Event1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Event1.cs",
+              "RelativeToolTip": "Assets\\scripts\\Event1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:07:19.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chaser1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Chaser1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Chaser1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Chaser1.cs",
+              "RelativeToolTip": "Assets\\scripts\\Chaser1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:47:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Timer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\scripts\\Timer.cs",
+              "ViewState": "AQIAADoAAAAAzMzMzMzgv0oAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:42:38.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:35:27.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountDown.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\CountDown.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CountDown.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\EscapeRun\\AwraRun\\Assets\\scripts\\CountDown.cs",
+              "RelativeToolTip": "Assets\\scripts\\CountDown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:34:31.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

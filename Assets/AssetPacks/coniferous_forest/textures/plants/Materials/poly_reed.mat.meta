@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d4c2e4f7d376f042b884bba2f536cec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277464
+  packageName: poly coniferous forest
+  packageVersion: 1.0
+  assetPath: Assets/coniferous_forest/textures/plants/Materials/poly_reed.mat
+  uploadId: 647221
